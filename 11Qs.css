@@ -1,0 +1,11 @@
+section{
+    height: 50px;
+    width: 900px;
+    background-color: bisque;
+    display: flex;
+    border-radius:5%;
+}
+div{
+    margin: 10px;
+    font-size: 25px;
+}
